@@ -1,3 +1,4 @@
+
 flask==0.12.1
-blinker
+blinker==1.4
 https://github.com/gregorynicholas/flask-gae_tests/tarball/master
