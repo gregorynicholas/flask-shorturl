@@ -1,4 +1,4 @@
 
-flask==1.1.2
+flask==2.2.1
 blinker==1.4
 https://github.com/gregorynicholas/flask-gae_tests/tarball/master
